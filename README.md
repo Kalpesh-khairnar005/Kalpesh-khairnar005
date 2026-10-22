@@ -1,5 +1,4 @@
-# Kalpesh Khairnar
-
+<h1 align="center">Kalpesh Prabhakar Khairnar</h1>
 <p align="center">
   <b> AI Engineer | Data Scientist | Machine Learning Engineer</b><br/>
   Python • SQL • Machine Learning • Deep Learning • Generative AI • Data Analytics • Neural Networks
